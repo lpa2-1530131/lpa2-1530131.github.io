@@ -29,4 +29,5 @@ img {
 	width: 100px;
 	height: 100px;
 	float: right;
+	border-radius: 5px;
 }
